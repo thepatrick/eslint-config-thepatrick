@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-thepatrick",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "thepatrick's ESLint config",
   "main": "index.js",
   "scripts": {
@@ -24,8 +24,7 @@
     "url": "https://github.com/thepatrick/eslint-config-thepatrick/issues"
   },
   "homepage": "https://github.com/thepatrick/eslint-config-thepatrick",
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "eslint": "^1.10.3"
   }
