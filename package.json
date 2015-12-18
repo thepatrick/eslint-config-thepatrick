@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-thepatrick",
+  "version": "0.0.1",
+  "description": "thepatrick's ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thepatrick/eslint-config-thepatrick"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "thepatrick",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Patrick Quinn-Graham <make-contact@pftqg.com> (https://github.com/thepatrick)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thepatrick/eslint-config-thepatrick/issues"
+  },
+  "homepage": "https://github.com/thepatrick/eslint-config-thepatrick",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "eslint": "^1.10.3"
+  }
+}
